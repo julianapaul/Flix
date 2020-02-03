@@ -6,7 +6,7 @@ target 'Flix' do
   use_frameworks!
 
   # Pods for Flix
-  pod "AlamofireImage"
+  pod 'AlamofireImage', '4.0.0-beta.6'
 
   target 'FlixTests' do
     inherit! :search_paths
@@ -18,4 +18,4 @@ target 'Flix' do
   end
 
 end
-
+/Users/julianapaul/Desktop/Flix/Podfile
